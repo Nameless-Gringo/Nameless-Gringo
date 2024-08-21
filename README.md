@@ -7,6 +7,7 @@
   <img align='center' src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img align='center' src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   <img align='center' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img align='center' src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img align='center' src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <br><br>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless-Gringo&layout=compact">
-
